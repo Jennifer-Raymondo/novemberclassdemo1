@@ -1,1 +1,4 @@
 Hello
+STEPS 
+install the dependenceies
+run the tests
